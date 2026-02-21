@@ -19,15 +19,9 @@ I don't believe in "impossible". I believe in well-optimized code and persistent
 ### 🛠 Tech Stack & Tools
 
 #### 🎯 My Primary Weapons (Best performance)
-
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 #### ⚔️ Also in my Arsenal
@@ -43,20 +37,3 @@ I don't believe in "impossible". I believe in well-optimized code and persistent
 - **PWr Projects:** Engineering system-level applications and mastering algorithms.
 - **Self-Development:** Exploring advanced backend architectures to complement my frontend/mobile skills.
 
----
-
-### 📊 Performance Metrics
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight)
-
----
-
-### ⚡ Fun Fact in C++
-```cpp
-while (challenge_exists) {
-    Max.stay_creative();
-    Max.code_harder();
-    if (goal_reached) {
-        Max.set_new_horizon();
-    }
-} 
