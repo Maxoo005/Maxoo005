@@ -11,7 +11,7 @@ Jestem studentem PWr, który łączy akademicką precyzję z produktowym podejś
 
 ## 🛠 Moje Supermoce (Tech Stack)
 
-### 🗡️ Główne Oręże
+### 🗡️ Głównie
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,9 +28,9 @@ Jestem studentem PWr, który łączy akademicką precyzję z produktowym podejś
 ## 📊 Statystyki i Aktywność
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&count_private=true" alt="Max's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=radical&rank_icon=github" alt="Max's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=radical" alt="Top Languages" width="300" />
 </p>
 
 ---
