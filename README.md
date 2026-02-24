@@ -28,12 +28,6 @@ My interests span mobile engineering, Java/system fundamentals, and applied ML.
 **Languages:** Dart, Java, Python, C/C++, JavaScript  
 **Frameworks/Tools:** Flutter, React, Next.js, Git, Linux, SQL basics
 
-## GitHub (optional)
-<!-- Keep it lean: one (or two) widgets max. -->
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</p>
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/TWOJ_PROFIL
