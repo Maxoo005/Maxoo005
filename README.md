@@ -22,7 +22,7 @@ My interests span mobile engineering, Java/system fundamentals, and applied ML.
   https://github.com/Maxoo005/WeeklyPlanner
 
 ## Now
-- Building **GymFlow** (fitness PWA) and expanding my ML tooling for misinformation detection.
+- Building **GymFlow** (fitness PWA).
 
 ## Tech
 **Languages:** Dart, Java, Python, C/C++, JavaScript  
