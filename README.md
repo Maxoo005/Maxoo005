@@ -1,70 +1,52 @@
 # Cześć, jestem Max! 👋 🚀
 
-### 🎓 Student Informatyki Systemowej @ Politechnika Wrocławska (PWr)
-**Ambitny Developer | Creative Problem Solver | Tech Enthusiast**
+### 🎓 Student Informatyki @ Politechnika Wrocławska (PWr)
+**Ambitny Developer | Odważny Inżynier | Pasjonat Nowych Technologii**
 
-> "Dla mnie 'niemożliwe' to tylko bug, który jeszcze nie został naprawiony."
+> "Nie boję się wejść w kod, którego nie znam. Boję się tylko kodu, którego nie da się zoptymalizować."
 
-Jestem studentem PWr, który łączy akademicką precyzję z produktowym podejściem. Nie boję się wchodzić w nieznane technologie – każda przeszkoda to dla mnie okazja do nauki, a każdy trudny projekt to paliwo do rozwoju.
-
----
-
-## 🛠 Moje Supermoce (Tech Stack)
-
-### 🗡️ Głównie
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-### 🛡️ W Arsenale
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+Jestem studentem PWr, który nie szuka prostych rozwiązań. Cechuje mnie **odwaga w podejmowaniu trudnych wyzwań** i ciągły głód nauki. Niezależnie czy to systemy niskopoziomowe, czy nowoczesne apki mobilne – wchodzę w to na 100%.
 
 ---
 
-## 📊 Statystyki i Aktywność
+## 📊 Mój Tech-Progress (Skill Mastery)
 
+Jako inżynier stawiam na konkretne dane. Oto jak rozwijają się moje obecne kompetencje:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=radical&rank_icon=github" alt="Max's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=radical" alt="Top Languages" width="300" />
+**Mobile Development (Dart & Flutter)**
+![85%](https://geps.dev/progress/85?dangerColor=00f2fe&warningColor=4facfe&successColor=00f2fe)
+*Buduję komercyjne aplikacje mobilne i PWA.*
 
+**System-Level Programming (Java, C/C++)**
+![75%](https://geps.dev/progress/75?dangerColor=a18cd1&warningColor=fbc2eb&successColor=a18cd1)
+*Projekty akademickie na PWr i optymalizacja algorytmów.*
 
----
+**Data Science & Machine Learning (Python)**
+![70%](https://geps.dev/progress/70?dangerColor=ff0844&warningColor=ffb199&successColor=ff0844)
+*Praca z danymi i modelami detekcji (np. Fake News Detection).*
 
-## 🧠 Mentalność i Rozwój
-
-* **Odwaga w działaniu:** Nie szukam łatwych ścieżek. Moje portfolio obejmuje zarówno niskopoziomowe projekty w C++, jak i nowoczesne aplikacje mobilne oraz modele Machine Learning.
-* **Ciągły Głód Wiedzy:** Absolwent intensywnych warsztatów **Solvro** w trzech kluczowych obszarach: Mobile, Frontend oraz ML.
-* **PWr Projects:** Na co dzień mierzę się z algorytmiką i inżynierią systemową na jednej z najlepszych uczelni technicznych w Polsce.
-
----
-
-## 🚀 Co teraz "miażdżę"?
-
-* 🏋️ **GymFlow SaaS:** Buduję komercyjną aplikację PWA dla branży fitness.
-* ⚙️ **System-level Apps:** Optymalizacja i masterowanie algorytmów w ramach studiów na PWr.
-* 🌐 **Backend Mastery:** Rozszerzam swoje skille o zaawansowane architektury serwerowe.
+**Frontend & Web (React, Next.js, JS)**
+![65%](https://geps.dev/progress/65?dangerColor=f093fb&warningColor=f5576c&successColor=f093fb)
+*Tworzenie nowoczesnych interfejsów użytkownika.*
 
 ---
 
-## 📂 Wybrane Projekty
+## 🧠 Dlaczego warto ze mną współpracować?
 
-| Projekt | Opis | Technologia |
-| :--- | :--- | :--- |
-| **GymFlow** | System SaaS do trackingu treningowego | Flutter / PWA |
-| **ML-FakeNews** | Detekcja dezinformacji przy użyciu AI | Python / Jupyter |
-| **WeeklyPlanner** | Zaawansowany planer frontendowy | React / JS |
-| **Apl-pogodowa** | Klasyka w wydaniu obiektowym | C++ |
+* **Odwaga:** Nowa technologia? Nowy framework? Dla mnie to nie problem, tylko kolejna rzecz do "roztrzaskania".
+* **Fundamenty PWr:** Moja wiedza nie kończy się na tutorialach. Rozumiem, co dzieje się pod spodem systemu.
+* **Product Mindset:** Nie piszę kodu dla samego pisania. Tworzę rozwiązania, które mają realną wartość (jak mój projekt GymFlow).
 
 ---
 
-## 📫 Znajdź mnie tutaj:
+## 🚀 Co obecnie "miażdżę"?
+
+* **GymFlow SaaS:** Finalizacja komercyjnej aplikacji dla branży fitness.
+* **Deep Learning:** Eksploracja zaawansowanych architektur sieci neuronowych.
+* **Backend Architecture:** Projektowanie skalowalnych systemów, by dopełnić moje skille Fullstackowe.
+
+---
+
+## 📫 Skontaktuj się ze mną:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TWOJ_PROFIL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TWOJ_MAIL)
