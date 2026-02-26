@@ -1,9 +1,5 @@
 # Hi, I'm Max! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Flutter+Developer;Java+Systems+Enthusiast;Building+GymFlow+🏋️‍♂️" alt="Typing SVG" />
-</p>
-
 ### 🎓 Computer Science Student @ Wrocław University of Science and Technology (PWr)
 
 I build practical apps end-to-end with a focus on **clean architecture**, **performance**, and **developer-friendly codebases**. My interests span mobile engineering, java/system fundamentals, and applied ML.
