@@ -6,9 +6,10 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Max%20(Maxoo005)&fontSize=70&animation=fadeIn" alt="Banner" />
-</p>
+### 📫 Kontakt
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliankula@wp.pl)
+
 ---
 
 ### 🚀 Stack Technologiczny
@@ -25,7 +26,6 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -43,11 +43,9 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 - ☁️ **[Weather App](https://github.com/Maxoo005/Apl-pogodowa)** — Aplikacja pogodowa w Flutterze.
 - 📅 **[WeeklyPlanner](https://github.com/Maxoo005/WeeklyPlanner)** — Frontend w React + Vite + Tailwind.
 
-
 ---
 
 ### 🛠 Skill Progress
-
 
 **Mobile Development (Dart & Flutter)** 📱
 ![85%](https://geps.dev/progress/85?dangerColor=00f2fe&warningColor=4facfe&successColor=00f2fe)
@@ -60,17 +58,13 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-### 📊 Statystyki GitHub
+### 📊 Moja Aktywność
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=transparent&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=transparent" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight" height="170" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=tokyonight" height="170" alt="Streak" />
 </p>
 
 ---
 
-### 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliankula@wp.pl)
-
----
 *Aktualnie buduję: **GymFlow** (fitness PWA) 🏋️‍♂️*
