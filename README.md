@@ -7,9 +7,8 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Max%20(Maxoo005)&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Max%20(Maxoo005)&fontSize=70&animation=fadeIn" alt="Banner" />
 </p>
-
 ---
 
 ### 🚀 Stack Technologiczny
@@ -47,16 +46,24 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-### 🛠 Skill Progress (Niezawodne paski)
-![Dart/Flutter](https://geps.dev/progress/85?dangerColor=00f2fe&warningColor=4facfe&successColor=00f2fe)
-![Java/Backend](https://geps.dev/progress/75?dangerColor=a18cd1&warningColor=fbc2eb&successColor=a18cd1)
+### 🛠 Skill Progress
+
+
+**Mobile Development (Dart & Flutter)** 📱
+![85%](https://geps.dev/progress/85?dangerColor=00f2fe&warningColor=4facfe&successColor=00f2fe)
+
+**Backend & System Systems (Java)** ☕
+![75%](https://geps.dev/progress/75?dangerColor=a18cd1&warningColor=fbc2eb&successColor=a18cd1)
+
+**Frontend & Web (React, Next.js, JS)** 🌐
+![65%](https://geps.dev/progress/65?dangerColor=f093fb&warningColor=f5576c&successColor=f093fb)
 
 ---
 
-### 📊 Aktywność na GitHub
+### 📊 Statystyki GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=transparent&rank_icon=github" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=transparent&rank_icon=github" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=transparent" height="150" alt="GitHub Streak" />
 </p>
 
 ---
