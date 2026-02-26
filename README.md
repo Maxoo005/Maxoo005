@@ -40,11 +40,9 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-### 📊 Statystyki GitHub
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" />
-</p>
+### 🏆 GitHub Trophies
+*Jeśli statystyki nie działały, trofea zazwyczaj ładują się szybciej:*
+[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
