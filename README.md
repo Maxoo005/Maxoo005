@@ -7,8 +7,19 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 ---
 
 ### 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliankula@wp.pl)
+<p align="center">
+  <[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)>
+  <[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliankula@wp.pl)>
+</p>
+    
+---
+
+### 📊 Moja Aktywność
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight" height="170" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=tokyonight" height="170" alt="Streak" />
+</p>
 
 ---
 
@@ -58,13 +69,24 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-### 📊 Moja Aktywność
+### 🐍 Activity Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxoo005/Maxoo005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxoo005/Maxoo005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maxoo005/Maxoo005/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📈 GitHub Smaczki
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight" height="170" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=tokyonight" height="170" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 </p>
 
 ---
+
 
 *Aktualnie buduję: **GymFlow** (fitness PWA) 🏋️‍♂️*
