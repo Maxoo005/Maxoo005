@@ -38,13 +38,19 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 - ☁️ **[Weather App](https://github.com/Maxoo005/Apl-pogodowa)** — Aplikacja pogodowa w Flutterze.
 - 📅 **[WeeklyPlanner](https://github.com/Maxoo005/WeeklyPlanner)** — Frontend w React + Vite + Tailwind.
 
----
-
-### 🏆 GitHub Trophies
-*Jeśli statystyki nie działały, trofea zazwyczaj ładują się szybciej:*
-[![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### 🏆 Moje Osiągnięcia (GitHub Trophies)
+![](https://github-profile-trophy.vercel.app/?username=Maxoo005&theme=tokyonight&column=7&margin-w=15&no-bg=true)
+
+---
+
+### 📊 Moje Statystyki
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" height="180" />
+</p>
 
 ### 📫 Kontakt
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)
