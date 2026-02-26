@@ -49,8 +49,8 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 ---
 
 ### 📫 Kontakt
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TWOJ_PROFIL)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TWOJ_MAIL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksymiliankula@wp.pl)
 
 ---
 *Aktualnie buduję: **GymFlow** (fitness PWA) 🏋️‍♂️*
