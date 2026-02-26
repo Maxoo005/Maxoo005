@@ -6,6 +6,12 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Max%20(Maxoo005)&fontSize=70&animation=fadeIn" />
+</p>
+
+---
+
 ### 🚀 Stack Technologiczny
 
 #### Języki
@@ -41,16 +47,19 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-### 🏆 Moje Osiągnięcia (GitHub Trophies)
-![](https://github-profile-trophy.vercel.app/?username=Maxoo005&theme=tokyonight&column=7&margin-w=15&no-bg=true)
+### 🛠 Skill Progress (Niezawodne paski)
+![Dart/Flutter](https://geps.dev/progress/85?dangerColor=00f2fe&warningColor=4facfe&successColor=00f2fe)
+![Java/Backend](https://geps.dev/progress/75?dangerColor=a18cd1&warningColor=fbc2eb&successColor=a18cd1)
 
 ---
 
-### 📊 Moje Statystyki
+### 📊 Aktywność na GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=transparent&rank_icon=github" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxoo005&theme=transparent" height="150" />
 </p>
+
+---
 
 ### 📫 Kontakt
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maks-kula-5213633a9/)
