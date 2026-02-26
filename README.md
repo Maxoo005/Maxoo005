@@ -1,34 +1,56 @@
-# Max (Maxoo005)
+# Cześć, jestem Max! 👋
 
-Computer Science student at Wrocław University of Science and Technology (PWr) — Flutter • Java • Python (ML/NLP) • systems-minded
+### 👨‍💻 Computer Science Student @ Wrocław University of Science and Technology (PWr)
 
-I build practical apps end-to-end: clean architecture, performance, and developer-friendly codebases.
-My interests span mobile engineering, Java/system fundamentals, and applied ML.
+I build practical apps end-to-end: clean architecture, performance, and developer-friendly codebases. My interests span **mobile engineering**, **java/system fundamentals**, and **applied ML**.
 
-## Focus
-- **Mobile & cross-platform:** Flutter (Dart), architecture, testing, performance
-- **Backend & systems:** Java (JDK 17+), modularity, concurrency fundamentals
-- **Data/ML:** Python, EDA + preprocessing, NLP experiments
-- **Web:** React/Vite (and Next.js when SSR/SEO matters)
+---
 
-## Selected work
-- **Java Advanced Labs (3rd semester @ PWr)** — modularity (JPMS), concurrency and architecture-focused lab projects  
-  https://github.com/Maxoo005/Java-labs-pwr3sem
-- **ML-FakeNews** — notebooks for EDA + preprocessing toward fake news detection  
-  https://github.com/Maxoo005/ML-FakeNews
-- **Weather app (Flutter)** — small weather application project  
-  https://github.com/Maxoo005/Apl-pogodowa
-- **WeeklyPlanner** — frontend project (React + Vite + Tailwind)  
-  https://github.com/Maxoo005/WeeklyPlanner
+### 🚀 Stack Technologiczny
 
-## Now
-- Building **GymFlow** (fitness PWA).
+#### Języki
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Tech
-**Languages:** Dart, Java, Python, C/C++, JavaScript  
-**Frameworks/Tools:** Flutter, React, Next.js, Git, Linux, SQL basics
+#### Frameworki i Narzędzia
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/TWOJ_PROFIL
-- Email: TWOJ_MAIL
+### 🛠 Na czym się skupiam?
+- **Mobile & cross-platform:** Flutter (Dart), architektura, testowanie.
+- **Backend & systems:** Java (JDK 17+), modułowość, współbieżność.
+- **Data/ML:** Python, EDA, eksperymenty NLP.
+- **Web:** React/Vite oraz Next.js.
+
+---
+
+### 📂 Wybrane Projekty
+- ☕ **[Java Advanced Labs](https://github.com/Maxoo005/Java-labs-pwr3sem)** — Modułowość (JPMS) i współbieżność.
+- 📰 **[ML-FakeNews](https://github.com/Maxoo005/ML-FakeNews)** — Detekcja fake newsów (EDA + preprocessing).
+- ☁️ **[Weather App](https://github.com/Maxoo005/Apl-pogodowa)** — Aplikacja pogodowa w Flutterze.
+- 📅 **[WeeklyPlanner](https://github.com/Maxoo005/WeeklyPlanner)** — Frontend w React + Vite + Tailwind.
+
+---
+
+### 📊 Statystyki GitHub
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Kontakt
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TWOJ_PROFIL)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TWOJ_MAIL)
+
+---
+*Aktualnie buduję: **GymFlow** (fitness PWA) 🏋️‍♂️*
