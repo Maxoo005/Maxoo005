@@ -15,6 +15,14 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxoo005/Maxoo005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxoo005/Maxoo005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maxoo005/Maxoo005/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 🚀 Stack Technologiczny
 
 #### Języki
@@ -58,6 +66,14 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 **Frontend & Web (React, Next.js, JS)** 🌐
 ![65%](https://geps.dev/progress/65?dangerColor=f093fb&warningColor=f5576c&successColor=f093fb)
+
+---
+
+### 📈 Statystyki 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
+</p>
 
 ---
 
