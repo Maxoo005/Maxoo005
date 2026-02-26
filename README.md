@@ -69,10 +69,10 @@ I build practical apps end-to-end: clean architecture, performance, and develope
 
 ---
 
-### 📈 Statystyki 
+### 📈 Statystyki
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maxoo005&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maxoo005&layout=compact&theme=tokyonight" height="150" alt="Top Langs" />
 </p>
 
 ---
