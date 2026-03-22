@@ -80,4 +80,4 @@ I build practical apps end-to-end with a focus on **clean architecture**, **perf
 
 ---
 
-*Currently engineering: **GymFloom** (fitness PWA) 🏋️‍♂️*
+*Currently engineering: **GymLoom** (fitness PWA) 🏋️‍♂️ and **Agri_Nav**
