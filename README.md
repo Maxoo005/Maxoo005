@@ -1,4 +1,4 @@
-# Hi, I'm Max! 👋
+# Hi, I'm Max! 
 
 ### 🎓 Computer Science Student @ Wrocław University of Science and Technology (PWr)
 
