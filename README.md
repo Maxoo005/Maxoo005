@@ -5,7 +5,7 @@
 I like building things that work outside the classroom: distributed systems in Java, a REST API backed by PostgreSQL, and a tractor navigation app that I test on my dad's farm with centimetre-accurate RTK GPS.
 
 🔎 Looking for an internship or junior role in **Java / backend**  
-📍 Wrocław, Poland · 📫 [maksymiliankula@wp.pl](mailto:maksymiliankula@wp.pl) · 💼 [LinkedIn](https://www.linkedin.com/in/maks-kula-5213633a9/)
+📍 Wrocław, Poland · 📫 [maksymiliankula@wp.pl](mailto:maksymiliankula@wp.pl) · 💼 [LinkedIn](https://www.linkedin.com/in/maksymilian-kula-5213633a9/)
 
 ---
 
@@ -69,8 +69,7 @@ A REST API for cocktails and ingredients: CRUD, pagination, combined filters and
 
 ## 🌱 Right now
 
-- 🚜 developing **AgriNav** further
-- 🏋️ building **GymLoom**, a fitness PWA
+- 🚜 actively developing **[AgriNav](https://github.com/Maxoo005/agri_nav)**, my main project at the moment
 - ☕ learning **Spring Boot**
 
 ---
